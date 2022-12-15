@@ -1,0 +1,25 @@
+{
+  "name": "nodejsprogram",
+  "version": "1.0.0",
+  "description": "Create Json File",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/usha-12/NodeJs-Practice.git"
+  },
+  "keywords": [
+    "step",
+    "by",
+    "step",
+    "code"
+  ],
+  "author": "usha Ahirwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usha-12/NodeJs-Practice/issues"
+  },
+  "homepage": "https://github.com/usha-12/NodeJs-Practice#readme"
+}
